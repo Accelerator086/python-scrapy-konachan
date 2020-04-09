@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 28 13:25:32 2020
 
-@author: 83930
-"""
 import os
 import requests
 import json
